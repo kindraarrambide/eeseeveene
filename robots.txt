@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eilahghei.ajc.la/sitemap.xml
